@@ -5,6 +5,7 @@ Created on Thu Apr  9 15:22:25 2020
 @author: Ross Anthony
 
 Calculating the contrast for graphene
+# I am going to edit this code for the purposes of visuallizing the sputter output from SDTrimSP
 """
 from cmath import exp, pi
 
